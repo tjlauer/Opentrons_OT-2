@@ -1,0 +1,143 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1"
+        ],
+        [
+            "A2",
+            "B2"
+        ],
+        [
+            "A3",
+            "B3"
+        ],
+        [
+            "A4",
+            "B4"
+        ]
+    ],
+    "brand": {
+        "brand": "BrauTech",
+        "brandId": [
+            "4x2_20000uL"
+        ]
+    },
+    "metadata": {
+        "displayName": "BrauTech 8 Well Plate 20000 µL",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.6,
+        "yDimension": 85.5,
+        "zDimension": 62.34
+    },
+    "wells": {
+        "A1": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 15.95,
+            "y": 64.13,
+            "z": 5
+        },
+        "B1": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 15.95,
+            "y": 21.19,
+            "z": 5
+        },
+        "A2": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 47.85,
+            "y": 64.13,
+            "z": 5
+        },
+        "B2": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 47.85,
+            "y": 21.19,
+            "z": 5
+        },
+        "A3": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 79.75,
+            "y": 64.13,
+            "z": 5
+        },
+        "B3": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 79.75,
+            "y": 21.19,
+            "z": 5
+        },
+        "A4": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 111.65,
+            "y": 64.13,
+            "z": 5
+        },
+        "B4": {
+            "depth": 57.34,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 16.09,
+            "x": 111.65,
+            "y": 21.19,
+            "z": 5
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "A2",
+                "B2",
+                "A3",
+                "B3",
+                "A4",
+                "B4"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "brautech_8_wellplate_20000ul"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
